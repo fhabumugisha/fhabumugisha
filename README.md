@@ -1,20 +1,20 @@
 # 👋 Bonjour, je suis Fabrice Habumugisha
 
 ### 💻 Développeur Java | Spring Boot | Angular | Cloud 
-Plus de **12 ans d’expérience** dans le développement web fullstack, dont **5 ans en tant que lead développeur**. Spécialiste des applications web scalables avec les stacks Java & Angular modernes.
+Plus de **13 ans d’expérience** dans le développement web fullstack, dont **5 ans en tant que lead développeur**. Spécialiste des applications web scalables avec les stacks Java & Angular modernes.
 
 ---
 
 ## 🚀 Stack & Domaines d’Expertise
 
-- **Langages & Frameworks** : Java 17, Spring Boot 3, Thymeleaf, Iconic, Angular 16+, Node.js  
+- **Langages & Frameworks** : Java 17, Spring Boot 3, Thymeleaf, Iconic, Angular 16+, Node.js
+- **AI** : Github Copilot, Cursor IDE, Claude code, OpenCode
 - **Cloud** : Google Cloud Platform (GCP), AWS, Azure  
 - **DevOps & CI/CD** : GitHub Actions, Jenkins, Terraform, Docker  
 - **Bases de données** : PostgreSQL, MongoDB, MariaDB  , Oracle
 - **Architecture** :  MVC, Microservices, Clean Architecture, Event-Driven  
 - **Messagerie & traitement asynchrone** : Google Pub/Sub, Spring Batch, RabbitMQ  
 - **Autres outils** : IntelliJ, Maven, JUnit 5, Liquibase, Hibernate, Git, GitLab,  Visual Studio code
-- **AI** : Github Copilot, Cursor IDE
 
 ---
 
