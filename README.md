@@ -28,7 +28,9 @@ Plus de **13 ans d’expérience** dans le développement web fullstack, dont **
 ---
 
 ## 📌 Quelques missions clés
-
+- **Espace client  (Groupama, 2025)**  
+  Espace client web en Angular et backend REST API Java Micronaut
+  
 - **Plateforme mobilité électrique (Gireve, 2024)**  
   API Spring Boot, communication Pub/Sub, déploiement cloud GCP via Terraform
 
